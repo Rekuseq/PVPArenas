@@ -1,0 +1,11 @@
+name: PVPReku
+version: '${project.version}'
+main: me.rekuseq.pvpreku.PVPReku
+api-version: 1.19
+authors: [ Rekuseq ]
+description: PVP arenas 
+
+
+commands:
+  pvp:
+    description: "Glowna komenda"

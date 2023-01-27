@@ -1,0 +1,39 @@
+areny:
+  arenka:
+    kit: "test"
+    team-a-max-players: 1
+    team-b-max-players: 0
+    lobby-areny:
+      world: "world"
+      x: -143.5
+      y: 64
+      z: -404
+    spawn-areny-team-a:
+      world: "world"
+      x: -139.5
+      y: 64
+      z: -394
+    spawn-areny-team-b:
+      world: "world"
+      x: -147
+      y: 64
+      z: -394
+  #ARENA 2
+  pvpduze:
+    team-a-max-players: 0
+    team-b-max-players: 1
+    lobby-areny:
+      world: "world"
+      x: -155.5
+      y: 64
+      z: -406
+    spawn-areny-team-a:
+      world: "world"
+      x: -139.5
+      y: 64
+      z: -414.5
+    spawn-areny-team-b:
+      world: "world"
+      x: -147
+      y: 64
+      z: -414.5
